@@ -1,2 +1,5 @@
 numpy
 moderngl
+moderngl_window
+pyrr
+matplotlib

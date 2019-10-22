@@ -42,7 +42,7 @@ float snoise(vec2 v){
 
 void main() {
     float ret = 0;
-    float frequency = 1;
+    float frequency = 8;
     float amplitude = 1;
     float maxValue = 0;
     for (int i = 0; i < OCTAVES; i++) {
